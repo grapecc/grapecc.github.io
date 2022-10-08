@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>about-me</title>
+      <link href="/2022/10/08/about-me/"/>
+      <url>/2022/10/08/about-me/</url>
+      
+        <content type="html"><![CDATA[<h2 id="关于我的个人陈述"><a href="#关于我的个人陈述" class="headerlink" title="关于我的个人陈述"></a>关于我的个人陈述</h2><p>*** 春风百花望秋月，夏有凉风冬听雪 ***</p><blockquote><p>致谢！</p></blockquote><p><span></span>关于我自己，一路走来其实遇到形形色色的人和事，由人和事形成的种种环境，不断地敲打着我，鞭策着我，让我不断成长！</p><blockquote><p>初遇  </p></blockquote><p><span></span>关于个人是20年毕业的，最先接触研发的一次机会是大三下半年，应学校要求，去 青岛崂山一所学校里进行实训，时间大约是2019年9月6日。实训内容大概是 关于<font color="red">Java</font>,<font color="red">MySql,</font><font color="red">HTML,</font><font color="red">JavaScript</font> 之间的交互和各个成员之间的作用。</p><blockquote><p>舒适圈出来后各种不适</p></blockquote><p><span></span> 校招的时候我收到了东华软件的offer，当时接到录取通知的时候异常的兴奋，心想终于可以 自己挣钱了，不枉自己苦读十几年的书。于是和我一起的朋友张同学就一起去泰安分公司（2019年11月18日）。之后在那里待了一段时间，工作上的调度和变故让我在这块安逸的舒适圈开始变得不安逸起来。主动提交了辞职申请 ，告别了和我一起前来的伙伴，开始了投简历的历程…….</p><blockquote><p>工作上吃瘪，晚上恶补</p></blockquote><p>​         毕业后 ，进入了一家工厂互联网，负责给某车开发，负责的项目两个 其中一个 大体物料在各个路局，维修点进行资源调度，差生个体与 物流 供应商之间的 订单交互，资源最大利用化。项目前后端不分离（easyui+ssm+mysql+redis）</p><p>另外一个项目是部件修MRO 背景主要用于车间部件进行工序加工和厂间资源透明化，使零部件供应和需求持续相同水平，减少物料生产过多，过剩的。项目主要特色是工作流的使用，屏幕加水印。项目也是前后端不分离项目（Thymeleaf + boot+mybaits-plus+mysql）</p><p>在这家公司我也待了一阵子，离开的原因是技术过于薄弱，领导安排新一点东西就直接卡死了，碍于面子从公司离开了。</p><p>……..先后参与了种种政府和金融项目，就一一不细说了，</p><blockquote><p>两年半的总结</p></blockquote><p>​       一路坎坷不平，和最初原点东华的同事对比，张同学选择了他的路，我选择了不一样的路折腾又充满未知。但是我却从不后悔，只悔当时没有好好学，导致走了很多弯路。</p><blockquote><p>关于爱情</p></blockquote><p>​     在现在物质社会中，爱情是真的不值一提，在没有坚硬的物质基础上，一切都是空谈呢！满脑子都是挣钱！挣钱！挣钱！慨当以慷，忧思难忘。 何以解忧？唯有挣钱！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> person </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 个人 </tag>
+            
+            <tag> grapecc </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/09/22/hello-world/"/>
       <url>/2022/09/22/hello-world/</url>
